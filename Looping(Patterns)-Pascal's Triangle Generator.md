@@ -9,7 +9,6 @@ This project demonstrates a simple Python program to generate **Pascal’s Trian
 To write a Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user.
 
 ---
-
 ## 🧠 Algorithm
 
 1. Start the program.
@@ -49,4 +48,3 @@ for i in range(1, rows+1):
 
 ## Result
 Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
-
